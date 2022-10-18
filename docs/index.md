@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="css/styles.css" type="text/css">
 # Testing Markdown conversion on Github pages
 
-## Overveiw
+## Overview
 
 This is a test to see if Github automatically converts Markdown pages to HTML when published on Github Pages.
 
