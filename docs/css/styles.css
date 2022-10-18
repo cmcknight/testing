@@ -18,3 +18,11 @@ h1 {
 table {
     color: black;
 }
+
+th {
+    background-color: navy;
+}
+
+td {
+    color: black;
+}
