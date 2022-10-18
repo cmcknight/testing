@@ -20,9 +20,9 @@ table {
 }
 
 th {
-    background-color: navy;
+    background-color: navy !important;
 }
 
 td {
-    color: black;
+    color: black !important;
 }
